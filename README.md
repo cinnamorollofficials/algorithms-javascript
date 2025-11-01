@@ -23,7 +23,10 @@ This repository contains implementations of various algorithms in JavaScript. Ea
 5. **Exponential Search** - O(log n) - Useful for large sorted datasets with unknown size
 
 ### Graph Algorithms
-- Coming soon...
+1. **Breadth-First Search (BFS)** – O(V + E) – Traverses level-by-level using a queue
+2. **Depth-First Search (DFS)** – O(V + E) – Explores as deep as possible using a stack/recursion
+
+Explores neighbors first before going deeper
 
 ### Dynamic Programming
 - Coming soon...
