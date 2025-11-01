@@ -42,4 +42,4 @@ function huffmanCoding(freqs) {
     return codes
 }
 
-console.log(huffmanCoding({A:5, B:9, C:12, D:13, E:16, F:45}))
+console.log(huffmanCoding({A:5, B:9, C:12, D:13, E:16, F:45})) // { F: '0', C: '100', D: '101', A: '1100', B: '1101', E: '111' }
